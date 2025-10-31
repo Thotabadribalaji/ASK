@@ -133,7 +133,7 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
+
 ## ASK
 <img width="1190" height="790" alt="image" src="https://github.com/user-attachments/assets/4266b5b8-9a02-4604-941a-b9b7e69e2fc0" />
 
@@ -142,9 +142,9 @@ plt.show()
 
 
 
-```
+
 # Results
 ```
-
+Thus,the Python program for the modulation and demodulation of ASK and FSK has been successfuly simulated.
 ```
 # Hardware experiment output waveform.
