@@ -17,7 +17,7 @@ return lfilter(b, a, data)
 # Parameters
 fs = 1000
 f_carrier = 50
-bit_rate = 10
+bit_rate = 10 
 T = 1 
 t = np.linspace(0, T, int(fs * T), endpoint=False)
 # Message signal (binary data)
